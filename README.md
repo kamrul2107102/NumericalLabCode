@@ -1,3 +1,4 @@
 # NumericalLabCode
-this is a numerical method repo
+this is a numerical method repo.
+<br>
 author: kamrul islam
